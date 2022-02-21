@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "75a8f961-66d3-4b4d-87b2-57a7d46559dc": {
+      "ProjectGuid": "75a8f961-66d3-4b4d-87b2-57a7d46559dc",
+      "DisplayName": "SOLID_001_SingleResponsibilityPrincip",
+      "ColorIndex": 0
+    },
+    "8e1bbf8e-f1c3-4a57-ad01-3be06997df83": {
+      "ProjectGuid": "8e1bbf8e-f1c3-4a57-ad01-3be06997df83",
+      "DisplayName": "SOLID_002_OpenClosePrinzip",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
