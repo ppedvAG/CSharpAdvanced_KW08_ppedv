@@ -7,11 +7,15 @@ FastReportGenerator fast1 = new FastReportGenerator();
 
 ABCReporterGenerator abc1 = new ABCReporterGenerator();
 
+
+
+//Mögliches Verwendungs-Szneario
 List<EmployeeGenerator> liste = new List<EmployeeGenerator>();
 liste.Add(crg1);
 liste.Add(fast1);
 liste.Add(abc1);    
 
+//Gehe komplette Liste von abgeleiteteden Klassen durch und führe jeweils die überschrieben abstrakte Methode aus
 foreach(EmployeeGenerator e in liste)
 {
     //Employee
@@ -105,8 +109,10 @@ public interface IEmployeeGenerator
     //nterface muss beim Implementiert werden
     void GeneratoreReport(Employee em);
 }
+#endregion
 
 
+#region Close-Part Abgeleitede Klassen
 public class CrystalReportGenerator : EmployeeGenerator
 {
     public override void GeneratoreReport(Employee em)
@@ -137,14 +143,17 @@ public class ABCReporterGenerator : EmployeeGenerator
 
     //Weitere Methoden hinzufügen, die FastReport relevant sind 
 }
-
-
 #endregion
 
 
 
 
+
+
+
 #region abstrakt vs Interface
+
+//Open Part
 public abstract class ReportGeneratorBase<T> 
 {
     public abstract void GenerateItem(T itemToGenerate);
@@ -152,6 +161,14 @@ public abstract class ReportGeneratorBase<T>
     public void Konfigurations()
     {
         //Basis-Implementierung -> Alle abgeleitete Klassen können diese Methode aufrufen
+    }
+}
+
+public class EmployeeReportGenerator : ReportGeneratorBase<Employee>
+{
+    public override void GenerateItem(Employee itemToGenerate)
+    {
+        //Vorlage + Employee -> Report 
     }
 }
 

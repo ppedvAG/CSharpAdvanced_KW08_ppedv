@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\ASPNETCORE_2022_KW8_ppedv\\CSharpAdvancedKurs\\SOLID_002_OpenClosePrinzip\\SOLID_002_OpenClosePrinzip.csproj",
+      "projectUniqueName": "C:\\Aktueller Kurs\\CSharpAdvanced_KW08_ppedv\\CSharpAdvancedKurs\\SOLID_002_OpenClosePrinzip\\SOLID_002_OpenClosePrinzip.csproj",
       "projectName": "SOLID_002_OpenClosePrinzip",
-      "projectPath": "C:\\Aktueller Kurs\\ASPNETCORE_2022_KW8_ppedv\\CSharpAdvancedKurs\\SOLID_002_OpenClosePrinzip\\SOLID_002_OpenClosePrinzip.csproj",
+      "projectPath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW08_ppedv\\CSharpAdvancedKurs\\SOLID_002_OpenClosePrinzip\\SOLID_002_OpenClosePrinzip.csproj",
       "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
-      "outputPath": "C:\\Aktueller Kurs\\ASPNETCORE_2022_KW8_ppedv\\CSharpAdvancedKurs\\SOLID_002_OpenClosePrinzip\\obj\\",
+      "outputPath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW08_ppedv\\CSharpAdvancedKurs\\SOLID_002_OpenClosePrinzip\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
