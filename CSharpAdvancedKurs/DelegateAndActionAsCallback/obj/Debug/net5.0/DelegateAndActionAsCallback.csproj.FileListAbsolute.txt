@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\DelegateAndActionAsCallback\bin\Debug\net5.0\DelegateAndActionAsCallback.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\DelegateAndActionAsCallback\bin\Debug\net5.0\DelegateAndActionAsCallback.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\DelegateAndActionAsCallback\bin\Debug\net5.0\DelegateAndActionAsCallback.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\DelegateAndActionAsCallback\bin\Debug\net5.0\DelegateAndActionAsCallback.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\DelegateAndActionAsCallback\bin\Debug\net5.0\DelegateAndActionAsCallback.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\DelegateAndActionAsCallback\bin\Debug\net5.0\ref\DelegateAndActionAsCallback.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\DelegateAndActionAsCallback\bin\Debug\net5.0\DelegateAndActionAsCallback.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\DelegateAndActionAsCallback\obj\Debug\net5.0\DelegateAndActionAsCallback.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\DelegateAndActionAsCallback\obj\Debug\net5.0\DelegateAndActionAsCallback.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\DelegateAndActionAsCallback\obj\Debug\net5.0\DelegateAndActionAsCallback.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\DelegateAndActionAsCallback\obj\Debug\net5.0\DelegateAndActionAsCallback.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\DelegateAndActionAsCallback\obj\Debug\net5.0\DelegateAndActionAsCallback.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\DelegateAndActionAsCallback\obj\Debug\net5.0\DelegateAndActionAsCallback.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\DelegateAndActionAsCallback\obj\Debug\net5.0\ref\DelegateAndActionAsCallback.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\DelegateAndActionAsCallback\obj\Debug\net5.0\DelegateAndActionAsCallback.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\DelegateAndActionAsCallback\obj\Debug\net5.0\DelegateAndActionAsCallback.genruntimeconfig.cache

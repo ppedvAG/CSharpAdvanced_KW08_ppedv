@@ -6,10 +6,10 @@ Themen
 
 Montag / Dienstag
 
-- [ ] Solid 
+- [x] Solid 
 - [ ] Delegates / Actions / Func / Events / EventHandler
-- [ ] Benchmark StringBuilder vs +-Operator (bei strings)
-- [ ] Interfaces vs abstract in Verbindung mit dem Builder Design Pattern 
+- [x] Benchmark StringBuilder vs +-Operator (bei strings)
+- [x] Interfaces vs abstract in Verbindung mit dem Builder Design Pattern 
 
 Mittwoch / Donnerstag:
 - [ ] Threading

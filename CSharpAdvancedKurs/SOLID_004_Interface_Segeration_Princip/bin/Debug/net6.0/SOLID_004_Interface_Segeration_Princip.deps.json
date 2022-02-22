@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SOLID_004_Interface_Segeration_Princip/1.0.0": {
+        "runtime": {
+          "SOLID_004_Interface_Segeration_Princip.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SOLID_004_Interface_Segeration_Princip/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

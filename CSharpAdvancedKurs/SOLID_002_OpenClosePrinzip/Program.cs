@@ -8,6 +8,20 @@ FastReportGenerator fast1 = new FastReportGenerator();
 ABCReporterGenerator abc1 = new ABCReporterGenerator();
 
 
+//Eingabe (simulieren)
+SelectReport SelectReport = SelectReport.FR;
+
+if (SelectReport == SelectReport.FR)
+{
+    fast1.GeneratoreReport(new Employee());
+}
+else if (SelectReport == SelectReport.CR)
+{
+    crg1.GeneratoreReport(new Employee());
+}
+
+
+
 
 //Mögliches Verwendungs-Szneario
 List<EmployeeGenerator> liste = new List<EmployeeGenerator>();
@@ -24,6 +38,9 @@ foreach(EmployeeGenerator e in liste)
 
 
 
+
+
+public enum SelectReport { CR, FR, PDF }
 public class Employee
 {
     public int Id { get; set; }

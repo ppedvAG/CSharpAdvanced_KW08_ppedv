@@ -10,7 +10,27 @@
       "ProjectGuid": "8e1bbf8e-f1c3-4a57-ad01-3be06997df83",
       "DisplayName": "SOLID_002_OpenClosePrinzip",
       "ColorIndex": 1
+    },
+    "6cc3ec64-e147-4f0a-a661-9f0f448ec1ca": {
+      "ProjectGuid": "6cc3ec64-e147-4f0a-a661-9f0f448ec1ca",
+      "DisplayName": "SOLID_003_LizkovischePrincipe",
+      "ColorIndex": 2
+    },
+    "e6e062eb-c2fb-4d77-b0d2-6c8ba1ae809b": {
+      "ProjectGuid": "e6e062eb-c2fb-4d77-b0d2-6c8ba1ae809b",
+      "DisplayName": "SOLID_004_Interface_Segeration_Princip",
+      "ColorIndex": 3
+    },
+    "8822a1df-d99f-427a-a716-432db5ae1866": {
+      "ProjectGuid": "8822a1df-d99f-427a-a716-432db5ae1866",
+      "DisplayName": "SOLID_005_DependencyInversion",
+      "ColorIndex": 4
+    },
+    "341c87b7-eb29-4aa5-8628-898060787e42": {
+      "ProjectGuid": "341c87b7-eb29-4aa5-8628-898060787e42",
+      "DisplayName": "StringBuilderBenchmarkDemo",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 6
 }
