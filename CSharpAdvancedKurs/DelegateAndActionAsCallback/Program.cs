@@ -31,7 +31,7 @@ namespace DelegateAndActionAsCallback
 
         public static void FinishOutputInProgrammCS(string msg)
         {
-            Console.WriteLine(msg) ;
+            Console.WriteLine(msg);
         }
     }
 
