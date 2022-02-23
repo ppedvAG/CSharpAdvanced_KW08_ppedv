@@ -30,7 +30,42 @@
       "ProjectGuid": "341c87b7-eb29-4aa5-8628-898060787e42",
       "DisplayName": "StringBuilderBenchmarkDemo",
       "ColorIndex": 5
+    },
+    "3e40160b-2626-4a6b-b32f-cde88fcdf997": {
+      "ProjectGuid": "3e40160b-2626-4a6b-b32f-cde88fcdf997",
+      "DisplayName": "Übung_Solid1",
+      "ColorIndex": 6
+    },
+    "388339f4-675a-41e8-8376-e441855c33fe": {
+      "ProjectGuid": "388339f4-675a-41e8-8376-e441855c33fe",
+      "DisplayName": "DelegatesActionsFuncsSamples",
+      "ColorIndex": 7
+    },
+    "3725ef8b-82a6-4716-881a-34a8923efd7c": {
+      "ProjectGuid": "3725ef8b-82a6-4716-881a-34a8923efd7c",
+      "DisplayName": "DelegateAndActionAsCallback",
+      "ColorIndex": 8
+    },
+    "c78b4c35-36a4-455d-ae5c-f6d5d13f1797": {
+      "ProjectGuid": "c78b4c35-36a4-455d-ae5c-f6d5d13f1797",
+      "DisplayName": "WinFormsApp1",
+      "ColorIndex": 9
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "76503690-4fde-4a14-9fed-5e34a49e2b5a": {
+      "ProjectGuid": "76503690-4fde-4a14-9fed-5e34a49e2b5a",
+      "DisplayName": "EventAndEventHandler",
+      "ColorIndex": 10
+    },
+    "b07ef0f6-ce26-439d-bfde-79a6932d27f5": {
+      "ProjectGuid": "b07ef0f6-ce26-439d-bfde-79a6932d27f5",
+      "DisplayName": "BenchmarksMitStopWatch",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 12
 }

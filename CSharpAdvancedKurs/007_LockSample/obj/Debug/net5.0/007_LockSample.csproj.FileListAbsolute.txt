@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\007_LockSample\bin\Debug\net5.0\007_LockSample.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\007_LockSample\bin\Debug\net5.0\007_LockSample.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\007_LockSample\bin\Debug\net5.0\007_LockSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\007_LockSample\bin\Debug\net5.0\007_LockSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\007_LockSample\bin\Debug\net5.0\007_LockSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\007_LockSample\bin\Debug\net5.0\ref\007_LockSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\007_LockSample\bin\Debug\net5.0\007_LockSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\007_LockSample\obj\Debug\net5.0\007_LockSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\007_LockSample\obj\Debug\net5.0\007_LockSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\007_LockSample\obj\Debug\net5.0\007_LockSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\007_LockSample\obj\Debug\net5.0\007_LockSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\007_LockSample\obj\Debug\net5.0\007_LockSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\007_LockSample\obj\Debug\net5.0\007_LockSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\007_LockSample\obj\Debug\net5.0\ref\007_LockSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\007_LockSample\obj\Debug\net5.0\007_LockSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\007_LockSample\obj\Debug\net5.0\007_LockSample.genruntimeconfig.cache

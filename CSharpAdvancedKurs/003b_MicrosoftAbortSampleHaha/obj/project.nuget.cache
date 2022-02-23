@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uu5pAqUulpyFV7oYMH6YoSoKwXqhfJ4ohGxzAwnjDYj7iKUQQczOfOVL0unnL4f+pA0Pz+s2W+C8TXHTc60HfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW08_ppedv\\CSharpAdvancedKurs\\003b_MicrosoftAbortSampleHaha\\003b_MicrosoftAbortSampleHaha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

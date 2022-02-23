@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace EventAndEventHandler
 {
-
     //Diese "Komponente" ist in der Lage, Zustände nach "außen" zu kommunizieren -> via Event-Methode zb
-
-
     public delegate void ChangedPercentValueDelegate(int perventValue);
     public delegate void ResultDelegate(string msg);
 
@@ -30,8 +27,8 @@ namespace EventAndEventHandler
                 //Bei jedem Durchlauf wird die neue Prozentanzeige nach draußen kommuniziert
                 OnProcessPercentStatus(i);
             }
-            //Kommunizieren wir nach "draußen" dass wir fertig sind 
 
+            //Kommunizieren wir nach "draußen" dass wir fertig sind 
             OnResult("Hallo liebes PRogramm, deine Komponete sauber durchgelaufen");
         }
 

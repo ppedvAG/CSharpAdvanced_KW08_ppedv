@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_ThreadWithCallback\bin\Debug\net5.0\005_ThreadWithCallback.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_ThreadWithCallback\bin\Debug\net5.0\005_ThreadWithCallback.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_ThreadWithCallback\bin\Debug\net5.0\005_ThreadWithCallback.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_ThreadWithCallback\bin\Debug\net5.0\005_ThreadWithCallback.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_ThreadWithCallback\bin\Debug\net5.0\005_ThreadWithCallback.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_ThreadWithCallback\bin\Debug\net5.0\ref\005_ThreadWithCallback.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_ThreadWithCallback\bin\Debug\net5.0\005_ThreadWithCallback.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_ThreadWithCallback\obj\Debug\net5.0\005_ThreadWithCallback.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_ThreadWithCallback\obj\Debug\net5.0\005_ThreadWithCallback.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_ThreadWithCallback\obj\Debug\net5.0\005_ThreadWithCallback.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_ThreadWithCallback\obj\Debug\net5.0\005_ThreadWithCallback.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_ThreadWithCallback\obj\Debug\net5.0\005_ThreadWithCallback.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_ThreadWithCallback\obj\Debug\net5.0\ref\005_ThreadWithCallback.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_ThreadWithCallback\obj\Debug\net5.0\005_ThreadWithCallback.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_ThreadWithCallback\obj\Debug\net5.0\005_ThreadWithCallback.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\003_ThreadBeenden\bin\Debug\net5.0\003_ThreadBeenden.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\003_ThreadBeenden\bin\Debug\net5.0\003_ThreadBeenden.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\003_ThreadBeenden\bin\Debug\net5.0\003_ThreadBeenden.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\003_ThreadBeenden\bin\Debug\net5.0\003_ThreadBeenden.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\003_ThreadBeenden\bin\Debug\net5.0\003_ThreadBeenden.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\003_ThreadBeenden\bin\Debug\net5.0\ref\003_ThreadBeenden.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\003_ThreadBeenden\bin\Debug\net5.0\003_ThreadBeenden.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\003_ThreadBeenden\obj\Debug\net5.0\003_ThreadBeenden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\003_ThreadBeenden\obj\Debug\net5.0\003_ThreadBeenden.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\003_ThreadBeenden\obj\Debug\net5.0\003_ThreadBeenden.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\003_ThreadBeenden\obj\Debug\net5.0\003_ThreadBeenden.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\003_ThreadBeenden\obj\Debug\net5.0\003_ThreadBeenden.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\003_ThreadBeenden\obj\Debug\net5.0\ref\003_ThreadBeenden.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\003_ThreadBeenden\obj\Debug\net5.0\003_ThreadBeenden.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\003_ThreadBeenden\obj\Debug\net5.0\003_ThreadBeenden.genruntimeconfig.cache

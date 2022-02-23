@@ -10,6 +10,8 @@ namespace DelegatesActionsFuncsSamples
 
     delegate int AddNumberDelegate(int z1, int z2);
 
+    delegate int TagRangeCalculation(int tag, int tag2);
+
 
     public class Program
     {
@@ -67,6 +69,10 @@ namespace DelegatesActionsFuncsSamples
 
         public static int Addidiere(int zahl1, int zahl2)
             => zahl1 + zahl2;
+
+
+        public static int VonTagBisTag(int tagFrom, int tagUntil)
+           => tagFrom + tagUntil;
 
         public static double Divide(int zahl1, int zahl2)
             => zahl1 / zahl2;
