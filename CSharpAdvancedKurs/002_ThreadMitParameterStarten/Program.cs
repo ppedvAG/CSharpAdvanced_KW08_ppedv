@@ -7,7 +7,7 @@ namespace _002_ThreadMitParameterStarten
     {
         static void Main(string[] args)
         {
-            ParameterizedThreadStart parameterized = new ParameterizedThreadStart(MachEtwasInEinemThread);
+            ParameterizedThreadStart parameterized = new ParameterizedThreadStart(MachEtwasInEinemThread); //Funktionszeiger
 
             Thread thread = new Thread(parameterized);
             thread.Start(600);

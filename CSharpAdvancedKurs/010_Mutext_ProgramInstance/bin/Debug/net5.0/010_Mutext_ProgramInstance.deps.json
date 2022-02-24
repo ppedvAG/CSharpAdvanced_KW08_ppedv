@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "010_Mutext_ProgramInstance/1.0.0": {
+        "runtime": {
+          "010_Mutext_ProgramInstance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "010_Mutext_ProgramInstance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

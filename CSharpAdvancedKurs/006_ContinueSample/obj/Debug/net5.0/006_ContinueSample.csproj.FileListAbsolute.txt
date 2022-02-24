@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\006_ContinueSample\bin\Debug\net5.0\006_ContinueSample.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\006_ContinueSample\bin\Debug\net5.0\006_ContinueSample.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\006_ContinueSample\bin\Debug\net5.0\006_ContinueSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\006_ContinueSample\bin\Debug\net5.0\006_ContinueSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\006_ContinueSample\bin\Debug\net5.0\006_ContinueSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\006_ContinueSample\bin\Debug\net5.0\ref\006_ContinueSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\006_ContinueSample\bin\Debug\net5.0\006_ContinueSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\006_ContinueSample\obj\Debug\net5.0\006_ContinueSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\006_ContinueSample\obj\Debug\net5.0\006_ContinueSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\006_ContinueSample\obj\Debug\net5.0\006_ContinueSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\006_ContinueSample\obj\Debug\net5.0\006_ContinueSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\006_ContinueSample\obj\Debug\net5.0\006_ContinueSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\006_ContinueSample\obj\Debug\net5.0\ref\006_ContinueSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\006_ContinueSample\obj\Debug\net5.0\006_ContinueSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\006_ContinueSample\obj\Debug\net5.0\006_ContinueSample.genruntimeconfig.cache

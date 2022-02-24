@@ -7,7 +7,8 @@ namespace _006_ThreadPool
     {
         static void Main(string[] args)
         {
-            ThreadPool.QueueUserWorkItem(Methode1);
+            //ThreadPool.SetMaxThreads()
+            ThreadPool.QueueUserWorkItem(Methode1, 123);
             ThreadPool.QueueUserWorkItem(Methode2);
             ThreadPool.QueueUserWorkItem(Methode3);
 

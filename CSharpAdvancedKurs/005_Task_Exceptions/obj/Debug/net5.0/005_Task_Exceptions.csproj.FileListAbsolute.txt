@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_Task_Exceptions\bin\Debug\net5.0\005_Task_Exceptions.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_Task_Exceptions\bin\Debug\net5.0\005_Task_Exceptions.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_Task_Exceptions\bin\Debug\net5.0\005_Task_Exceptions.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_Task_Exceptions\bin\Debug\net5.0\005_Task_Exceptions.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_Task_Exceptions\bin\Debug\net5.0\005_Task_Exceptions.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_Task_Exceptions\bin\Debug\net5.0\ref\005_Task_Exceptions.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_Task_Exceptions\bin\Debug\net5.0\005_Task_Exceptions.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_Task_Exceptions\obj\Debug\net5.0\005_Task_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_Task_Exceptions\obj\Debug\net5.0\005_Task_Exceptions.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_Task_Exceptions\obj\Debug\net5.0\005_Task_Exceptions.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_Task_Exceptions\obj\Debug\net5.0\005_Task_Exceptions.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_Task_Exceptions\obj\Debug\net5.0\005_Task_Exceptions.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_Task_Exceptions\obj\Debug\net5.0\ref\005_Task_Exceptions.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_Task_Exceptions\obj\Debug\net5.0\005_Task_Exceptions.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\005_Task_Exceptions\obj\Debug\net5.0\005_Task_Exceptions.genruntimeconfig.cache

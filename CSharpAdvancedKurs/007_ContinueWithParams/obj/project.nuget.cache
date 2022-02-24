@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6DwMZNdEtPGx2LZ8zKrSZEDst4jz3341QQeUkGrItF99o+EvdQMG1XyvRfqFJBvrDFxXYnwb+giUnJ8wIOYNcw==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW08_ppedv\\CSharpAdvancedKurs\\007_ContinueWithParams\\007_ContinueWithParams.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

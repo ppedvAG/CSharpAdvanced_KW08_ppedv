@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x1Blm17SpuIT6n4pXtUKrIVzrqMwH8EcFEUglLWj5MkpLSGi76l6We6m+KxZ0Kr7rQxrUCjv7GRDxCW0i5cTGw==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW08_ppedv\\CSharpAdvancedKurs\\008_Task_WhenAllSample\\008_Task_WhenAllSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

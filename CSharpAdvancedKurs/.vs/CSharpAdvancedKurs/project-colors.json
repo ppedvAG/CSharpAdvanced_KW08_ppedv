@@ -65,7 +65,52 @@
       "ProjectGuid": "b07ef0f6-ce26-439d-bfde-79a6932d27f5",
       "DisplayName": "BenchmarksMitStopWatch",
       "ColorIndex": 11
+    },
+    "3fb9724a-9ea9-4b1c-a4c1-e51b62ba5f5a": {
+      "ProjectGuid": "3fb9724a-9ea9-4b1c-a4c1-e51b62ba5f5a",
+      "DisplayName": "001_ThreadStarten",
+      "ColorIndex": 12
+    },
+    "6824288b-5c7b-45c5-b26f-9acc720d04d9": {
+      "ProjectGuid": "6824288b-5c7b-45c5-b26f-9acc720d04d9",
+      "DisplayName": "002_ThreadMitParameterStarten",
+      "ColorIndex": 13
+    },
+    "a76773ca-67e7-4be4-9137-267b236fa083": {
+      "ProjectGuid": "a76773ca-67e7-4be4-9137-267b236fa083",
+      "DisplayName": "003_ThreadBeenden",
+      "ColorIndex": 14
+    },
+    "e9f05de0-dd46-475c-a6da-d245e8afb37e": {
+      "ProjectGuid": "e9f05de0-dd46-475c-a6da-d245e8afb37e",
+      "DisplayName": "003a_ThreadBeenden",
+      "ColorIndex": 15
+    },
+    "683294f3-2433-4550-be11-9407dc5b8f41": {
+      "ProjectGuid": "683294f3-2433-4550-be11-9407dc5b8f41",
+      "DisplayName": "003b_MicrosoftAbortSampleHaha",
+      "ColorIndex": 0
+    },
+    "f9ed380c-af32-41ec-bedc-a477ea75456b": {
+      "ProjectGuid": "f9ed380c-af32-41ec-bedc-a477ea75456b",
+      "DisplayName": "004_ThreadWithParameterAndReturnValue",
+      "ColorIndex": 1
+    },
+    "285f9d37-db2b-4478-af80-b0a40273fef4": {
+      "ProjectGuid": "285f9d37-db2b-4478-af80-b0a40273fef4",
+      "DisplayName": "005_ThreadWithCallback",
+      "ColorIndex": 2
+    },
+    "dc594aa3-21d8-4c6d-98c1-f48cbe3c40e9": {
+      "ProjectGuid": "dc594aa3-21d8-4c6d-98c1-f48cbe3c40e9",
+      "DisplayName": "006_ThreadPool",
+      "ColorIndex": 3
+    },
+    "40e501aa-7631-45ca-a95e-8eea32fdeef4": {
+      "ProjectGuid": "40e501aa-7631-45ca-a95e-8eea32fdeef4",
+      "DisplayName": "007_LockSample",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 5
 }

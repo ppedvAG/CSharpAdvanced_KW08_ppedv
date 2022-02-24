@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\010_Mutext_ProgramInstance\bin\Debug\net5.0\010_Mutext_ProgramInstance.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\010_Mutext_ProgramInstance\bin\Debug\net5.0\010_Mutext_ProgramInstance.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\010_Mutext_ProgramInstance\bin\Debug\net5.0\010_Mutext_ProgramInstance.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\010_Mutext_ProgramInstance\bin\Debug\net5.0\010_Mutext_ProgramInstance.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\010_Mutext_ProgramInstance\bin\Debug\net5.0\010_Mutext_ProgramInstance.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\010_Mutext_ProgramInstance\bin\Debug\net5.0\ref\010_Mutext_ProgramInstance.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\010_Mutext_ProgramInstance\bin\Debug\net5.0\010_Mutext_ProgramInstance.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\010_Mutext_ProgramInstance\obj\Debug\net5.0\010_Mutext_ProgramInstance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\010_Mutext_ProgramInstance\obj\Debug\net5.0\010_Mutext_ProgramInstance.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\010_Mutext_ProgramInstance\obj\Debug\net5.0\010_Mutext_ProgramInstance.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\010_Mutext_ProgramInstance\obj\Debug\net5.0\010_Mutext_ProgramInstance.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\010_Mutext_ProgramInstance\obj\Debug\net5.0\010_Mutext_ProgramInstance.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\010_Mutext_ProgramInstance\obj\Debug\net5.0\ref\010_Mutext_ProgramInstance.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\010_Mutext_ProgramInstance\obj\Debug\net5.0\010_Mutext_ProgramInstance.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\010_Mutext_ProgramInstance\obj\Debug\net5.0\010_Mutext_ProgramInstance.genruntimeconfig.cache

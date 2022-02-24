@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "008_Task_WhenAllSample/1.0.0": {
+        "runtime": {
+          "008_Task_WhenAllSample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "008_Task_WhenAllSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

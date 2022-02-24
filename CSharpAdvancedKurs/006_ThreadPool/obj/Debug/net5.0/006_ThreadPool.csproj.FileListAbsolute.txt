@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\006_ThreadPool\ob
 C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\006_ThreadPool\obj\Debug\net5.0\ref\006_ThreadPool.dll
 C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\006_ThreadPool\obj\Debug\net5.0\006_ThreadPool.pdb
 C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\006_ThreadPool\obj\Debug\net5.0\006_ThreadPool.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\006_ThreadPool\obj\Debug\net5.0\006_ThreadPool.csproj.AssemblyReference.cache

@@ -3,6 +3,9 @@ using System.Threading;
 
 namespace _005_ThreadWithCallback
 {
+
+    public delegate void ExampleCallbackDelegate(MyReturnObject myReturnObject);
+
     internal class Program
     {
         static void Main(string[] args)
@@ -10,6 +13,7 @@ namespace _005_ThreadWithCallback
             ThreadWithState threadWithState = 
                 new ThreadWithState("Hallo liebe Teilnehmer", 111, new ExampleCallbackDelegate(ResultCallback));
 
+         
 
             Thread t = new Thread(new ThreadStart(threadWithState.ThreadProc)); 
             t.Start();
@@ -58,7 +62,7 @@ namespace _005_ThreadWithCallback
     }
 
 
-    public delegate void ExampleCallbackDelegate(MyReturnObject myReturnObject);
+   
     
     public class MyReturnObject
     {

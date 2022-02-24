@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\004_TaskMitParameter\bin\Debug\net5.0\004_TaskMitParameter.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\004_TaskMitParameter\bin\Debug\net5.0\004_TaskMitParameter.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\004_TaskMitParameter\bin\Debug\net5.0\004_TaskMitParameter.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\004_TaskMitParameter\bin\Debug\net5.0\004_TaskMitParameter.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\004_TaskMitParameter\bin\Debug\net5.0\004_TaskMitParameter.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\004_TaskMitParameter\bin\Debug\net5.0\ref\004_TaskMitParameter.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\004_TaskMitParameter\bin\Debug\net5.0\004_TaskMitParameter.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\004_TaskMitParameter\obj\Debug\net5.0\004_TaskMitParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\004_TaskMitParameter\obj\Debug\net5.0\004_TaskMitParameter.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\004_TaskMitParameter\obj\Debug\net5.0\004_TaskMitParameter.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\004_TaskMitParameter\obj\Debug\net5.0\004_TaskMitParameter.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\004_TaskMitParameter\obj\Debug\net5.0\004_TaskMitParameter.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\004_TaskMitParameter\obj\Debug\net5.0\ref\004_TaskMitParameter.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\004_TaskMitParameter\obj\Debug\net5.0\004_TaskMitParameter.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\004_TaskMitParameter\obj\Debug\net5.0\004_TaskMitParameter.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\008_Task_WhenAllSample\bin\Debug\net5.0\008_Task_WhenAllSample.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\008_Task_WhenAllSample\bin\Debug\net5.0\008_Task_WhenAllSample.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\008_Task_WhenAllSample\bin\Debug\net5.0\008_Task_WhenAllSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\008_Task_WhenAllSample\bin\Debug\net5.0\008_Task_WhenAllSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\008_Task_WhenAllSample\bin\Debug\net5.0\008_Task_WhenAllSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\008_Task_WhenAllSample\bin\Debug\net5.0\ref\008_Task_WhenAllSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\008_Task_WhenAllSample\bin\Debug\net5.0\008_Task_WhenAllSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\008_Task_WhenAllSample\obj\Debug\net5.0\008_Task_WhenAllSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\008_Task_WhenAllSample\obj\Debug\net5.0\008_Task_WhenAllSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\008_Task_WhenAllSample\obj\Debug\net5.0\008_Task_WhenAllSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\008_Task_WhenAllSample\obj\Debug\net5.0\008_Task_WhenAllSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\008_Task_WhenAllSample\obj\Debug\net5.0\008_Task_WhenAllSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\008_Task_WhenAllSample\obj\Debug\net5.0\ref\008_Task_WhenAllSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\008_Task_WhenAllSample\obj\Debug\net5.0\008_Task_WhenAllSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\008_Task_WhenAllSample\obj\Debug\net5.0\008_Task_WhenAllSample.genruntimeconfig.cache
