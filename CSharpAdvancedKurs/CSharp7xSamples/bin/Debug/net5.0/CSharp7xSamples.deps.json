@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CSharp7xSamples/1.0.0": {
+        "runtime": {
+          "CSharp7xSamples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharp7xSamples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

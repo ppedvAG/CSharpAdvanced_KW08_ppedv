@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp7xSamples\bin\Debug\net5.0\CSharp7xSamples.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp7xSamples\bin\Debug\net5.0\CSharp7xSamples.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp7xSamples\bin\Debug\net5.0\CSharp7xSamples.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp7xSamples\bin\Debug\net5.0\CSharp7xSamples.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp7xSamples\bin\Debug\net5.0\CSharp7xSamples.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp7xSamples\bin\Debug\net5.0\ref\CSharp7xSamples.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp7xSamples\bin\Debug\net5.0\CSharp7xSamples.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp7xSamples\obj\Debug\net5.0\CSharp7xSamples.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp7xSamples\obj\Debug\net5.0\CSharp7xSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp7xSamples\obj\Debug\net5.0\CSharp7xSamples.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp7xSamples\obj\Debug\net5.0\CSharp7xSamples.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp7xSamples\obj\Debug\net5.0\CSharp7xSamples.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp7xSamples\obj\Debug\net5.0\CSharp7xSamples.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp7xSamples\obj\Debug\net5.0\ref\CSharp7xSamples.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp7xSamples\obj\Debug\net5.0\CSharp7xSamples.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp7xSamples\obj\Debug\net5.0\CSharp7xSamples.genruntimeconfig.cache

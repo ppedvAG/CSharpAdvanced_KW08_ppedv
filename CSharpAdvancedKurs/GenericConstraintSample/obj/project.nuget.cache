@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8wh3Q4a2ybnL5frxD9YkayBCJyBlRn6Z/fbP7alFA06e4LkBlZ+fa/xqaAlmNA4pHFTQS43DAPwG3TSUcsO7/g==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW08_ppedv\\CSharpAdvancedKurs\\GenericConstraintSample\\GenericConstraintSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

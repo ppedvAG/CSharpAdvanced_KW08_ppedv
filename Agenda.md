@@ -12,15 +12,17 @@ Montag / Dienstag
 - [x] Interfaces vs abstract in Verbindung mit dem Builder Design Pattern 
 
 Mittwoch / Donnerstag:
-- [ ] Threading
-- [ ] TPL
-- [ ] async / await
-- [ ] Generics
+- [x] Threading
+- [x] TPL
+- [x] async / await
+
 
 Freitag / Montag:
+- [ ] Generics
 - [ ] C# 7.0 -> C# 10.0 Sprach Features
+
 - [ ] Reflections 
- - [ ] Plugin Pattern
+ - [ ] Plugin Pattern (Optional, CodeReview)
 - [ ] Serialisierung
 - [ ] Linq / Lambda 
 - [ ] Erweiterungsmethoden  
