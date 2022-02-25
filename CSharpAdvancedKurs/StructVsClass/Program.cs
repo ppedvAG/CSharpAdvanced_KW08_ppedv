@@ -6,6 +6,7 @@ namespace Modul019_01_StructVsClass
     {
         static void Main(string[] args)
         {
+            #region Struct vs Class
             //Erstellung von Objekten
             PersonC cPerson = new PersonC("Heiko", 35);
 
@@ -18,7 +19,7 @@ namespace Modul019_01_StructVsClass
 
             //Mit einer Zuweisung kann ich die komplette Struktur übergegben (Referenz übergeben)
             ref PersonS referenz = ref sPerson; //struct wird als Referenztyp hier behandelt. 
-
+            
             //Ausgabe
             Console.WriteLine($"{cPerson.name}: {cPerson.alter}"); //35
             Console.WriteLine($"{sPerson.name}: {sPerson.alter}"); //35 
@@ -35,6 +36,7 @@ namespace Modul019_01_StructVsClass
             //Übergabe des Wertetyps als Refernz mittels Ref-Stichwort
             Altern(ref sPerson);
             Console.WriteLine($"{sPerson.name}: {sPerson.alter}");
+            #endregion
         }
 
         public static void Altern(PersonC cPerson) //Bei der Klasse wird die Referenz übergeben

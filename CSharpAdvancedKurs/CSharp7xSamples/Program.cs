@@ -47,6 +47,15 @@ namespace CSharp7xSamples
                 Console.WriteLine(result); //12345 als int
             }
             #endregion
+
+            int eineMillion = 1_000_000;//beim kompilieren werden die Unterstriche entfernt. 
+            decimal moneyBetrag = 19.99m; //m für money -> bei festen zuweiseungen muss man mit dem suffix - m mit angeben. 
+
+
+
+            Summe(23);
+            Summe(11, 22);
+            Summe(11, 22, 33);
         }
 
         #region Out Sample
@@ -67,6 +76,11 @@ namespace CSharp7xSamples
         public static (string, string, string) VollenNamenAusgeben()
         {
             return (Vorname, !string.IsNullOrEmpty(ZweiterVorname) ? ZweiterVorname : string.Empty, Nachname);
+        }
+
+        public static long Summe (int zahl1, int zahl2 = default, int zahl3 = default)
+        {
+            return zahl1 + zahl2 + zahl3;
         }
     }
 
