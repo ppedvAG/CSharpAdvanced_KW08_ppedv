@@ -235,7 +235,32 @@
       "ProjectGuid": "c1451352-75f7-4811-b422-845e4b2181b3",
       "DisplayName": "TaschenrechnerApp",
       "ColorIndex": 13
+    },
+    "3ed78f6b-9a93-45a1-b63e-90dd01a8bf70": {
+      "ProjectGuid": "3ed78f6b-9a93-45a1-b63e-90dd01a8bf70",
+      "DisplayName": "HelloSerialization",
+      "ColorIndex": 14
+    },
+    "37f69bf5-205f-4368-9765-9d8b6981d517": {
+      "ProjectGuid": "37f69bf5-205f-4368-9765-9d8b6981d517",
+      "DisplayName": "ConsoleApp2",
+      "ColorIndex": 15
+    },
+    "cae0ae22-d316-4208-9d1f-8174761f500c": {
+      "ProjectGuid": "cae0ae22-d316-4208-9d1f-8174761f500c",
+      "DisplayName": "LinqAndLambdaSamples",
+      "ColorIndex": 0
+    },
+    "fa754658-86fa-4f7b-be99-d1d3f7ae50f6": {
+      "ProjectGuid": "fa754658-86fa-4f7b-be99-d1d3f7ae50f6",
+      "DisplayName": "OperatorenSample",
+      "ColorIndex": 1
+    },
+    "c5a5a010-e06e-4cdc-a376-41be9a618006": {
+      "ProjectGuid": "c5a5a010-e06e-4cdc-a376-41be9a618006",
+      "DisplayName": "AnonymeTypenSample",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 3
 }

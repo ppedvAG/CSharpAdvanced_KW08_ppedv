@@ -7,7 +7,7 @@ Themen
 Montag / Dienstag
 
 - [x] Solid 
-- [ ] Delegates / Actions / Func / Events / EventHandler
+- [x] Delegates / Actions / Func / Events / EventHandler
 - [x] Benchmark StringBuilder vs +-Operator (bei strings)
 - [x] Interfaces vs abstract in Verbindung mit dem Builder Design Pattern 
 
@@ -22,13 +22,13 @@ Freitag / Montag:
 - [x] C# 7.0 -> C# 10.0 Sprach Features
 		-> https://docs.microsoft.com/de-de/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers
 
-- [ ] Reflections 
- - [ ] Plugin Pattern (Optional, CodeReview)
-- [ ] Serialisierung
-- [ ] Linq / Lambda 
-- [ ] Erweiterungsmethoden  
-- [ ] Operatoren
-- [ ] Anonyme Typen + dynamische Typen
+- [x] Reflections 
+ - [x] Plugin Pattern (Optional, CodeReview)
+- [x] Serialisierung
+- [x] Linq / Lambda 
+- [x] Erweiterungsmethoden  
+- [x] Operatoren
+- [x] Anonyme Typen + dynamische Typen
 
 
 
