@@ -18,8 +18,8 @@ Mittwoch / Donnerstag:
 
 
 Freitag / Montag:
-- [ ] Generics
-- [ ] C# 7.0 -> C# 10.0 Sprach Features
+- [x] Generics
+- [x] C# 7.0 -> C# 10.0 Sprach Features
 		-> https://docs.microsoft.com/de-de/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers
 
 - [ ] Reflections 

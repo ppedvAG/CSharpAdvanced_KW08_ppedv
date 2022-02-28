@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp9Samples\bin\Debug\net6.0\CSharp9Samples.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp9Samples\bin\Debug\net6.0\CSharp9Samples.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp9Samples\bin\Debug\net6.0\CSharp9Samples.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp9Samples\bin\Debug\net6.0\CSharp9Samples.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp9Samples\bin\Debug\net6.0\ref\CSharp9Samples.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp9Samples\bin\Debug\net6.0\CSharp9Samples.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp9Samples\obj\Debug\net6.0\CSharp9Samples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp9Samples\obj\Debug\net6.0\CSharp9Samples.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp9Samples\obj\Debug\net6.0\CSharp9Samples.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp9Samples\obj\Debug\net6.0\CSharp9Samples.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp9Samples\obj\Debug\net6.0\CSharp9Samples.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp9Samples\obj\Debug\net6.0\ref\CSharp9Samples.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp9Samples\obj\Debug\net6.0\CSharp9Samples.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp9Samples\obj\Debug\net6.0\CSharp9Samples.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW08_ppedv\CSharpAdvancedKurs\CSharp9Samples\obj\Debug\net6.0\CSharp9Samples.csproj.AssemblyReference.cache

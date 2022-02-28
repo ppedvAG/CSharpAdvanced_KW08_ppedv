@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oz5XSZ4jIxHkA2ajhPJGK1s7Pz1QvNCYeD+ZsQNKbMVFROjDtUj4j4Lc+QWKIo26BRYE/5z6BBtA0lzpYBYppw==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW08_ppedv\\AppWithPlugin\\UVPlugin\\UVPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

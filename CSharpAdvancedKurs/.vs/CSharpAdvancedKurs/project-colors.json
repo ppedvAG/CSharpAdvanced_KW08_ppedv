@@ -185,7 +185,57 @@
       "ProjectGuid": "9ffe18bc-5b2f-4b14-a0b1-2b275190d6e1",
       "DisplayName": "BenchmarkTestParallelForVsFor",
       "ColorIndex": 3
+    },
+    "01ab40a1-e2ec-4576-b4cc-af000e649500": {
+      "ProjectGuid": "01ab40a1-e2ec-4576-b4cc-af000e649500",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 4
+    },
+    "b0376640-8512-44d2-a622-d26661c095a1": {
+      "ProjectGuid": "b0376640-8512-44d2-a622-d26661c095a1",
+      "DisplayName": "HelloGenerics",
+      "ColorIndex": 5
+    },
+    "c1ca33fa-3399-430c-9cd5-4b8b409c839b": {
+      "ProjectGuid": "c1ca33fa-3399-430c-9cd5-4b8b409c839b",
+      "DisplayName": "GenericConstraintSample",
+      "ColorIndex": 6
+    },
+    "620b60b1-54c3-4b13-8ddb-cd2a4eff4eb2": {
+      "ProjectGuid": "620b60b1-54c3-4b13-8ddb-cd2a4eff4eb2",
+      "DisplayName": "CSharp7xSamples",
+      "ColorIndex": 7
+    },
+    "3fc6b75d-4810-4947-ab41-fa35351be7d4": {
+      "ProjectGuid": "3fc6b75d-4810-4947-ab41-fa35351be7d4",
+      "DisplayName": "Modul019_01_StructVsClass",
+      "ColorIndex": 8
+    },
+    "b5f83c8f-52cc-41f7-bcfc-789daa5f6efb": {
+      "ProjectGuid": "b5f83c8f-52cc-41f7-bcfc-789daa5f6efb",
+      "DisplayName": "CSharp80",
+      "ColorIndex": 9
+    },
+    "d68901de-fbde-4167-843a-6e4d28f1ca02": {
+      "ProjectGuid": "d68901de-fbde-4167-843a-6e4d28f1ca02",
+      "DisplayName": "CSharp9Samples",
+      "ColorIndex": 10
+    },
+    "80d2e739-62f2-40b3-862a-f65438fd875d": {
+      "ProjectGuid": "80d2e739-62f2-40b3-862a-f65438fd875d",
+      "DisplayName": "CSharp10",
+      "ColorIndex": 11
+    },
+    "f6d2c7ef-10b5-403c-9bbf-75d8ad08ea37": {
+      "ProjectGuid": "f6d2c7ef-10b5-403c-9bbf-75d8ad08ea37",
+      "DisplayName": "Taschenrechner",
+      "ColorIndex": 12
+    },
+    "c1451352-75f7-4811-b422-845e4b2181b3": {
+      "ProjectGuid": "c1451352-75f7-4811-b422-845e4b2181b3",
+      "DisplayName": "TaschenrechnerApp",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 14
 }
